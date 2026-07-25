@@ -7,7 +7,7 @@ This repository is currently a minimal project scaffold. At the moment, it conta
 ## Current structure
 
 ```text
-/home/runner/work/xyz/xyz
+.
 ├── .git/       # Git metadata
 └── README.md   # Repository overview and notes
 ```
